@@ -1,8 +1,1 @@
-*.cpp linguist-detectable=false
-*.C++ linguist-detectable=false
-*.C linguist-detectable=false
-*.XML Property List linguist-detectable=false
-*.CMake linguist-detectable=false
-*.Ignore List linguist-detectable=false
-*.Dart linguist-detectable=true
-*.XML linguist-detectable=false
+*.* linguist-language=Dart
